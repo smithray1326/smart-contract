@@ -8,3 +8,4 @@
 - Web3
 - Ethereum
 - Solana
+- Sui
