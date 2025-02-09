@@ -7,3 +7,4 @@
 - Solidity
 - Web3
 - Ethereum
+- Solana
